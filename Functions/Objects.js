@@ -40,3 +40,6 @@
 // me.name = 'Mukul';
 // // me.isStudying = '';
 // me.printIntroduction();
+
+
+//Object.values() is used for returning enumerable property values of a simple array, array-like object, and array-like object with random key ordering.
