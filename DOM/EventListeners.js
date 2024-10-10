@@ -26,8 +26,8 @@
 The key property is read-only. */
 
 // event.key
-let key = event.key;
+// let key = event.key;
 
-if (key == "a" || key == "A") {
-  let text = "You pressed the 'A' key!";
-}
+// if (key == "a" || key == "A") {
+//   let text = "You pressed the 'A' key!";
+// }
